@@ -1,0 +1,15 @@
+
+
+h1 {
+	margin-top:60px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.container {
+	max-width: 600px;
+	margin: auto;
+	clear: both;
+}
+
